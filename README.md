@@ -1,7 +1,7 @@
 # Sagemaker Training & Hyper parameter tuning
 
-Tensorflow Keras (CIFAR 10 dataset)
-
+1. Tensorflow Keras (CIFAR 10 dataset)
+2. AWS Lambda & API Gateway
 
 ## slide
 https://docs.google.com/presentation/d/1scP2qZRXUuaNUXUulHOK_rhnnaaSbAeoqka8hr-GgkA/edit#slide=id.g627cd6fe37_0_6
